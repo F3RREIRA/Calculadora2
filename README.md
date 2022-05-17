@@ -5,7 +5,7 @@ Calculadora
 
 ## 💻 Projeto
 
-A [Calculadora](https://f3rreira.github.io/Calculadora) é uma aplicação web, onde são apresentadas as principais funções, com uma interface simples e bonita.
+A [Calculadora](https://f3rreira.github.io/Calculadora2) é uma aplicação web, onde são apresentadas as principais funções, com uma interface simples e bonita.
 
 ## 🚀 Tecnologias
 
