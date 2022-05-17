@@ -1,0 +1,43 @@
+* { 
+  padding: 0; 
+  margin: 0; 
+  outline: none;
+
+body {
+  background-color: #eceff0;
+  padding-top: 60px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+a {
+  color: #263238;
+  text-decoration: none;
+}
+
+p {
+  margin: 5px 0 0 0;
+}
+
+.calcWrapper {
+  display: block;
+  border-radius: 6px;
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  padding: 44px 24px;
+  background: #E6E1DA;
+  box-shadow: 0 8px 10px -4px rgba(0, 0, 0, 0.5), 0 40px 50px -15px rgba(0, 0, 0, 0.2), inset 0 -2px 8px 1px rgba(204, 194, 181, 1), 0px 2px 1px 0px rgba(255,255,255,0.8) inset;
+}
+
+.screenBase {
+  padding: 4px;
