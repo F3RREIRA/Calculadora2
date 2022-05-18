@@ -33,3 +33,50 @@ function calculator(key){
 
       if(typeof a === "string" && typeof b === "string"){
         if(key.value === "="){
+          display = eval(a + lastOp + b).toString();
+          a = null;
+          b = null;
+          capture = false;
+        } else if(key.value === "-" || key.value === "+" || key.value === "/" || key.value === "*") {
+          display = eval(a + lastOp + b).toString();
+          lastOp = key.value
+          a = display;
+          b = null;
+          capture = false;
+        } 
+      }
+      break;
+
+    case "reset":
+      reset();
+      break;
+    case "delete":
+      del();
+      break;
+    default:
+      break;
+  }
+}
+
+calcPad.addEventListener('click', calcControl, false);
+
+function reset(){
+  a = null;
+  b = null;
+  capture = true;
+  display = '0';
+}
+
+function del(){
+  a = true;
+  b = null;
+  capture = true;
+  display = '0';
+}
+
+function calcControl(e){
+  if(e.target !== e.currentTarget){
+    var result = calculator(e.target);
+    screen.innerHTML = display;
+  }  
+}
