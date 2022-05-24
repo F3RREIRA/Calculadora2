@@ -5,7 +5,7 @@ Calculadora
 
 <p align="center">
 <a href="https://github.com/F3RREIRA">
-<img alt="Imagem Calculadora" title="Calculadora" src="Calc2.png" width="500px"/>
+<img alt="Imagem Calculadora" title="Calculadora" src="Calc2.png" width="400px"/>
 </a>
 </p>
 
