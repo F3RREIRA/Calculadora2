@@ -3,11 +3,17 @@ Calculadora
 </h1>
 <br>
 
-## 💻 Projeto
+<p align="center">
+<a href="https://github.com/F3RREIRA">
+<img alt="Imagem Calculadora" title="Calculadora" src="Calc2.png" width="500px"/>
+</a>
+</p>
+
+## 🗂️ Projeto
 
 A [Calculadora](https://f3rreira.github.io/Calculadora2) é uma aplicação web, onde são apresentadas as principais funções, com uma interface simples e bonita.
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -15,7 +21,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## :earth_americas: Publicação
+## 🌎 Publicação
 
 Você pode acessar a página [Calculadora](https://f3rreira.github.io/Calculadora2) para testar e ver mais detalhes.
 
