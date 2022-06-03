@@ -30,4 +30,8 @@ Você pode acessar a página [Calculadora](https://f3rreira.github.io/Calculador
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) 
 
 ---
-Calculadora by [F3ERREIRA](https://github.com/F3RREIRA)
+ <p align="center">
+ <a href="https://github.com/F3RREIRA">
+    <img alt="F3RREIRA" title="F3RREIRA" src="https://github.com/F3RREIRA/DW2A4/blob/main/github/F3RREIRA.png" width="200px">
+ </a>
+ </p>
