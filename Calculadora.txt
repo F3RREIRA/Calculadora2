@@ -1,0 +1,1 @@
+Calculadora é uma aplicação WEB para a realização de cálculos numéricos, com a capacidade de realizar as quatro operações básicas da matemática:  adição, subtração, multiplicação e divisão.
